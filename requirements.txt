@@ -1,0 +1,9 @@
+pandas
+numpy
+xgboost
+sklearn
+matplotlib
+hyperopt
+# tensorflow-gpu
+py
+pytest
